@@ -18,7 +18,7 @@ public class HomeController {
 		
 		Pedido pedido = new Pedido();
 			pedido.setNomeProduto("2020 / 2021 Camisa De Futebol Roma II");
-			pedido.setUrlImagem("https://shopee.com.br/2020-2021-Camisa-De-Futebol-Roma-II-i.343499006.4870551731");
+			pedido.setUrlImagem("https://d3ugyf2ht6aenh.cloudfront.net/stores/878/529/products/roma-away-2020-41-dea04925e24fb1314315988784543961-1024-1024.jpg");
 			pedido.setUrlProduto("https://shopee.com.br/2020-2021-Camisa-De-Futebol-Roma-II-i.343499006.4870551731");
 			pedido.setDescricao("Camisa Roma Torcedor 2020/2021");
 			
